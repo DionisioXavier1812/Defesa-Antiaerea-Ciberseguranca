@@ -1,0 +1,18 @@
+[ Ataque DDoS ] ---> [ Firewall detecta ] ---> [ Bloqueio IP ]
+        |
+        v
+[ Redundância ativada ] ---> [ Servidores continuam operando ]
+
+-------------------------------------------------------------
+
+[ Spoofing de Radar ] ---> [ IDS identifica sinal falso ]
+        |
+        v
+[ Alerta ao Centro de Comando ] ---> [ Operador valida integridade ]
+
+-------------------------------------------------------------
+
+[ Intrusão em Rede ] ---> [ SOC detecta login suspeito ]
+        |
+        v
+[ Isolamento da máquina ] ---> [ Auditoria e correção ]

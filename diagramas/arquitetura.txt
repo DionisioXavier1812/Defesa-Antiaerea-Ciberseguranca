@@ -1,0 +1,28 @@
+﻿                [ Radar / Sensores ]
+                        |
+                        v
+                +----------------+
+                |   Rede Interna |
+                +----------------+
+                        |
+                        v
+                [ Centro de Comando ]
+                +-------------------+
+                | Servidores        |
+                | Consoles Analistas|
+                +-------------------+
+                        |
+                        v
+                [ Comunicação Segura ]
+                +-------------------+
+                | Links de Rede     |
+                | Protocolos Críticos|
+                +-------------------+
+                        |
+                        v
+                [ Defesa Cibernética ]
+                +-------------------+
+                | Firewall / IDS    |
+                | Monitoramento SOC |
+                | Playbook Resposta |
+                +-------------------+
